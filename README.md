@@ -1,7 +1,13 @@
-# 效果演示图
-
-<p align="center"><img src ="Images/ui.gif" width = "600px"></p>
-
+Table of Contents
+=================
+* [简易豆瓣书籍推荐器](#简易豆瓣书籍推荐器)
+     * [效果演示图](#效果演示图)
+  * [项目介绍](#项目介绍)
+  * [项目背景](#项目背景)
+  * [推荐机制](#推荐机制)
+  * [如何运行本项目](#如何运行本项目)
+  * [小结](#小结)
+ 
 # 简易豆瓣书籍推荐器
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/DoubanCrawler/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
@@ -10,6 +16,10 @@
 **中文 (Only in Chinese)**
 
 最后一次更新于 `2020/4/5`
+
+### 效果演示图
+
+<p align="center"><img src ="Images/ui.gif" width = "600px"></p>
 
 ## 项目介绍
 这是一个豆瓣小爬虫，用于推荐给豆瓣用户 TA 可能喜欢的**有方向性的**书籍。豆瓣书籍的搜索方式很奇怪:<br>
