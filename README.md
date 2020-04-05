@@ -49,6 +49,7 @@ Table of Contents
 <p align="center"><img src ="Images/login.gif" width = "600px"></p>
 
 满足这三条要求的同学就可以直接通过命令行或者 Pycharm 的 **Run** 运行了哦！<br>
+为了简化登录输入操作，同学们可以先提前把账号密码写入 Account 文件夹下的 txt 里。格式 `username password`。<br>
 一杯☕️的时间，专属你的推荐书单就生成完毕了～
 
 ## 小结
