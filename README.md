@@ -41,7 +41,7 @@ Table of Contents
 要成功运行本项目有三个先决条件:
 1. PC 上安装了 Python 的 IDE(Pycharm 最佳)，且支持 Python 3.0+ 的版本
 2. 下载并安装了 chromedriver，安装地址请点击此[链接](https://chromedriver.chromium.org/downloads)
-3. 安装了以下 packages，用于下图中的破解图片识别和爬虫:
+3. 需要安装以下 packages，用于下图中的破解图片识别和爬虫:
     - selenium
     - Pillow
     - requests
