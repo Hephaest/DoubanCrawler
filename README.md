@@ -11,7 +11,6 @@ Table of Contents
 # 简易豆瓣书籍推荐器
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/DoubanCrawler/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
-[![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/DoubanCrawler/tree/master/Scripts)
 
 **中文 (Only in Chinese)**
 
