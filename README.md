@@ -12,8 +12,6 @@ Table of Contents
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/DoubanCrawler/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 
-**中文 (Only in Chinese)**
-
 最后一次更新于 `2020/4/5`
 
 ### 效果演示图
